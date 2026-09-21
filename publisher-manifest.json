@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6c88552be1400f05adf3fbc0",
+  "owner": "g5gxus",
+  "repo": "page-b39fa73522c61f7da7bc1d14",
+  "title": "HorizonBirth",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b39fa73522c61f7da7bc1d14",
+      "a": "HorizonBirth",
+      "b": "2027最新官网",
+      "entity": "HorizonBirth",
+      "brand": "HorizonBirth",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "48c21585028b11e2e96c539413bd32ee40811c20ecf3d0ff3a2d20610c46dad6",
+      "content": {
+        "primary_entity": "HorizonBirth",
+        "keyword1": "HorizonBirth",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "各设备客户端参考",
+          "AI_CLOSING_TEXT": "选好套餐，下载客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 HorizonBirth",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，月流量从 100GB 到 1000GB，在线设备数从 3 台到 20 台，按年付可省两个月费用。各档均含流媒体解锁与节点池，旗舰版增加 IPLC 专线游戏加速，团队版含 VIP 高带宽节点与专属客户经理。",
+          "AI_FEATURES_INTRO": "从套餐到设备，围绕实际使用场景整理。",
+          "AI_FEATURES_TITLE": "HorizonBirth 使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台设备轻度使用，旗舰版 5 台设备满足流媒体与游戏，团队版支持 20 台设备协同。",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付仅需十个月价格，长期使用选择年付更划算。",
+          "AI_FEATURE_TEXT_3": "Windows、macOS、iOS、Android 可分别选择对应客户端，导入订阅后即可使用。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "多平台客户端",
+          "AI_GUIDE_INTRO": "三步完成 HorizonBirth 订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "HorizonBirth 提供多档订阅选择，覆盖个人到团队场景，支持多种设备客户端与流媒体解锁。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配多设备",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "月付年付灵活",
+          "AI_HIGHLIGHT_3": "多平台客户端",
+          "AI_PLANS_INTRO": "对比流量、设备数与年付价格，选适合的一档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月流量需求，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制与流量额度，确认满足日常使用。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅，完成配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "HorizonBirth 订阅方案",
+          "AI_FAQ_ANSWER_1": "HorizonBirth 提供基础版、旗舰版和团队版三档套餐。月付价格分别为 ¥15、¥35、¥85；按年付则分别为 ¥150、¥350、¥850。流量与设备支持数量随套餐档位递增。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。家庭日常使用选基础版或旗舰版较合适，多设备或小型办公环境建议团队版。",
+          "AI_FAQ_ANSWER_3": "先确认设备的操作系统，再查阅该客户端自带的订阅导入说明，按步骤粘贴订阅地址并保存，随后刷新节点列表即可。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线游戏加速优化；团队版提供 VIP 专属高带宽节点，可承载更大并发。如对延迟敏感，优先考虑旗舰版或其以上套餐。",
+          "AI_FAQ_ANSWER_5": "按年付比按月付更划算。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。长期使用直接选择年付方案比月付累计更省。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "HorizonBirth 有哪些套餐可选？价格如何？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持的设备数量分别是多少？",
+          "AI_FAQ_QUESTION_3": "订阅怎么导入到客户端？",
+          "AI_FAQ_QUESTION_4": "哪个套餐适合游戏或流媒体？",
+          "AI_FAQ_QUESTION_5": "按年付和按月付有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xmkjxf.cn",
+    "host": "xmkjxf.cn"
+  },
+  "file_hashes": {
+    "index.html": "c638aa57470f09d9105130b29d8f02e4b4b1565bc3ab0edaaf5d506914b9f926",
+    "sitemap.xml": "018bbda2a313f876d8f0d63c32e82478593364a6997113b2a87c7768f807649d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "299c6960dd8616fa31cddb0fceb5f92cd6a1aa8f5f8294283c5ec5e60f7cb720",
+    "robots.txt": "f22f1cf3aff257402a969a1d02ec0120485d99893ecf3ecee8ed3bf9c2a4b401",
+    "349f255ae7994c9d5f67291d269e99cc.txt": "70033fdb3fca72859f3c799263cab28c921e040fa2e2e51be7c2ddc6af28cc1f"
+  },
+  "revision": "ad6c17e434922813ddaa1173c28bb3729d60142b1a89a50e04747e392f57bda3"
+}
